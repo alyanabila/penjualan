@@ -1,0 +1,1 @@
+ini daftar {{$newproduct}}
