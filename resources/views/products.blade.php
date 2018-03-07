@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>koperasi</title>
+<title>Koperasi | Sekolah</title>
 <link href="css/css/bootstrap.css" rel='stylesheet' type='text/css' />
 <link href="css/css/style.css" rel='stylesheet' type='text/css' />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -60,7 +60,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			  <div class="col-md-12">
 				 <div class="header-left">
 					 <div class="logo">
-						<a href="index.html"><img src="css/images/logo.png" alt=""/></a>
+						<a href="css/css/index.html"><img src="css/images/logo.png" alt=""/></a>
 					 </div>
 					 <div class="menu">
 						  <a class="toggleMenu" href="#"><img src="css/images/nav.png" alt="" /></a>

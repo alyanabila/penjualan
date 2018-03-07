@@ -15,6 +15,7 @@ class AddNoProductToProducts extends Migration
     {
         Schema::table('products', function (Blueprint $table) {
             $table->string('no_products')->unique();
+            $table->string('image')->unique();
         });
     }
 

@@ -7,8 +7,8 @@ use App\Models\Product;
 
 class ProductController extends Controller
 {
-    public function products(){
-    	$products = products::all(); 
-    	return view('products')->with('data',$products);
+    public function listproduct(){
+    	$products = product::all(); 
+    	return view('product')->with('data',$products);
     }
 }
